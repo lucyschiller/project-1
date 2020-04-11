@@ -21,3 +21,11 @@ let maxSoFar,
       result = arrMax;
     });
   };
+
+// Req. 3-d
+
+let sumEvens = arr => {
+  for (var evens of arr) {
+    sumEvens = sumEvens + i;
+  }
+};
