@@ -9,3 +9,7 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - Learning to work with the Terminal application￼
+
+![Github logo](images/femalecodertocat.png)
+
+https://pages.uoregon.edu/lucilles/281/
